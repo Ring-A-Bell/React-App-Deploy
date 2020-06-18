@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/React-App-Deploy/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/React-App-Deploy/static/js/main.5ff0114b.chunk.js",
+    "main.js.map": "/React-App-Deploy/static/js/main.5ff0114b.chunk.js.map",
+    "runtime-main.js": "/React-App-Deploy/static/js/runtime-main.8a953eee.js",
+    "runtime-main.js.map": "/React-App-Deploy/static/js/runtime-main.8a953eee.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/React-App-Deploy/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.ae8fcd8d.chunk.js": "/React-App-Deploy/static/js/2.ae8fcd8d.chunk.js",
+    "static/js/2.ae8fcd8d.chunk.js.map": "/React-App-Deploy/static/js/2.ae8fcd8d.chunk.js.map",
+    "index.html": "/React-App-Deploy/index.html",
+    "precache-manifest.f3447d032a9117ba8422495832cfc66a.js": "/React-App-Deploy/precache-manifest.f3447d032a9117ba8422495832cfc66a.js",
+    "service-worker.js": "/React-App-Deploy/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/React-App-Deploy/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/React-App-Deploy/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.ae8fcd8d.chunk.js.LICENSE.txt": "/React-App-Deploy/static/js/2.ae8fcd8d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8a953eee.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.ae8fcd8d.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.5ff0114b.chunk.js"
+  ]
+}
